@@ -1,0 +1,33 @@
+table {
+    border:solid gold;
+    border-style:groove;
+    border-collapse: collapse;
+    width: 100%;
+
+    
+    
+}
+body {
+    background-image: url(https://media.tenor.com/sWsqhP50KdQAAAAC/rgb-rainbow.gif);
+background-size: cover;
+
+}
+th, td {
+    padding-bottom: 40px;
+    padding: 8px;
+    text-align: ;
+    border:3px solid gold;
+    background-color: palegoldenrod
+    
+
+    }
+    th {
+        background-color: peachpuff;
+        text-align: left;
+        font-family: 'Courier New', Courier, monospace;
+        
+
+        
+    }
+    
+
